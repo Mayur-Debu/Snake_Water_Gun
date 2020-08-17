@@ -77,6 +77,9 @@ while(rounds>0):
     draw+=1
     rounds -= 1
 
+#Result Displayed here ****************************
+
+
 print("*********************************************************************************************")
 print("RESULT OF THE GAME: \n")
 print("No. of rounds: 10")
